@@ -1,36 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Problem Statement : To Develop a blockchain-based eVault system for legal records to ensure security, transparency, and accessibility for all stakeholders.
 
-## Getting Started
+Requirements:
+Utilize blockchain platforms like Ethereum with smart contracts for access, permissions, and transactions.
+Provide user-friendly interfaces for stakeholders to upload, retrieve, track changes, and share legal documents.
+Ensure privacy and confidentiality with access controls, encryption, and authentication mechanisms.
+Enable seamless integration with existing legal databases and case management systems for interoperability.
+Ensure scalability and adaptability for future changes and upgrades.
 
-First, run the development server:
+Expected Outcomes:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Functional prototype of the eVault system with user-friendly features for document management.
+Detailed design document outlining system architecture, features, and technical specifications.
+Business plan highlighting impact, market opportunities, and revenue models.
+Presentation showcasing the prototype, design document, and business plan.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Impact:
+The system can lead to faster court proceedings, reduced costs, improved data integrity, and increased trust in the justice system. It provides a secure and transparent platform for storing and sharing legal records, enhancing access to justice in India.
