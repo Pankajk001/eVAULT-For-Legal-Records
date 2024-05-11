@@ -58,9 +58,13 @@ Prepare detailed documentation, including system architecture, technical specifi
 Create a presentation highlighting the prototype, design documents, and business plan for the hackathon.
 
 3. Tech Stack :
+
 Front-End : ReactJS, NextJS , Tailwind CSS 
+
 Back-End :  NodeJS ,ExpressJS , JWT , Web3.js , Crypto.js
+
 Storage : IPFS(InterPlanetary File System) , MongoDB
+
 Blockchain : Hyperledger Fabric
 
 4. Basic Workflow :
