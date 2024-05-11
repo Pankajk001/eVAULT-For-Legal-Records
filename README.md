@@ -1,187 +1,102 @@
-1. Problem Statement : 
+# Blockchain-based eVault System for Legal Records
 
-To Develop a blockchain-based eVault system for legal records to ensure security, transparency, and accessibility for all stakeholders.
+## Problem Statement
 
+To develop a blockchain-based eVault system for legal records to ensure security, transparency, and accessibility for all stakeholders.
 
-Requirements:
+### Requirements:
 
-Utilize blockchain platforms like Ethereum with smart contracts for access, permissions, and transactions.
+1. Utilize blockchain platforms like Ethereum with smart contracts for access, permissions, and transactions.
+2. Provide user-friendly interfaces for stakeholders to upload, retrieve, track changes, and share legal documents.
+3. Ensure privacy and confidentiality with access controls, encryption, and authentication mechanisms.
+4. Enable seamless integration with existing legal databases and case management systems for interoperability.
+5. Ensure scalability and adaptability for future changes and upgrades.
 
-Provide user-friendly interfaces for stakeholders to upload, retrieve, track changes, and share legal documents.
+### Expected Outcomes:
 
-Ensure privacy and confidentiality with access controls, encryption, and authentication mechanisms.
+1. Functional prototype of the eVault system with user-friendly features for document management.
+2. Presentation showcasing the prototype, design document, and business plan.
 
-Enable seamless integration with existing legal databases and case management systems for interoperability.
-
-Ensure scalability and adaptability for future changes and upgrades.
-
-
-Expected Outcomes:
-
-
-Functional prototype of the eVault system with user-friendly features for document management.
-
-Presentation showcasing the prototype, design document, and business plan.
-
-
-
-Impact:
-
+### Impact:
 
 The system can lead to faster court proceedings, reduced costs, improved data integrity, and increased trust in the justice system. It provides a secure and transparent platform for storing and sharing legal records, enhancing access to justice in India.
 
+## Approach
 
-2.Approach :
+Addressing the development of a blockchain-based eVault system for legal records requires a structured approach.
 
- Addressing the development of a blockchain-based eVault system for legal records requires a structured approach
+### Understanding the Problem:
 
+1. Gain a thorough understanding of the requirements outlined in the problem statement.
+2. Identify the key stakeholders and their needs, such as lawyers, judges, clients, and administrators.
 
-Understanding the Problem:
+### Research and Familiarization:
 
-Gaining a thorough understanding of the requirements outlined in the problem statement.
+1. Research various blockchain platforms (Ethereum) to determine the most suitable for the project's requirements.
+2. Explore existing eVault systems and legal record management solutions to understand their features and functionalities.
 
-Identifying the  key stakeholders and their needs, such as lawyers, judges, clients, and administrators.
+### System Design and Architecture:
 
+1. Design the overall architecture of the eVault system, considering factors like security, scalability, and interoperability.
+2. Define the structure for storing legal records on the blockchain, ensuring privacy and confidentiality.
+3. Design smart contracts to manage access, permissions, and transactions securely.
 
-Research and Familiarization:
+### User Interface Design:
 
+1. Design intuitive and user-friendly interfaces for stakeholders to interact with the eVault system.
+2. Incorporate features such as document upload, retrieval, tracking changes, and sharing information.
 
-Researching various blockchain platforms (Ethereum) to determine the most suitable for the project's requirements.
+### Development:
 
-Exploring  existing eVault systems and legal record management solutions to understand their features and functionalities.
+1. Develop the eVault system according to the designed architecture and user interface specifications.
+2. Implement smart contracts for access control, permissions management, and transaction handling.
+3. Ensure robust security measures, including encryption, authentication, and secure communication protocols.
 
+### Integration:
 
+1. Integrate the eVault system with existing legal databases and case management systems for seamless interoperability.
+2. Test the integration thoroughly to ensure data consistency and compatibility.
 
-System Design and Architecture:
+### Testing and Quality Assurance:
 
+1. Conduct comprehensive testing of the eVault system to identify and rectify any bugs or issues.
+2. Perform security testing to detect vulnerabilities and ensure data integrity and confidentiality.
 
-Designing the overall architecture of the eVault system, considering factors like security, scalability, and interoperability.
+### Documentation and Presentation:
 
-Defining the structure for storing legal records on the blockchain, ensuring privacy and confidentiality.
+1. Prepare detailed documentation, including system architecture, technical specifications, and user guides.
+2. Create user manuals and guides for stakeholders.
 
-Designing  smart contracts to manage access, permissions, and transactions securely.
+## Tech Stack
 
+### Front-End:
+- ReactJS
+- NextJS
+- Tailwind CSS
 
-User Interface Design:
+### Back-End:
+- NodeJS
+- ExpressJS
+- JWT
+- Web3.js
+- Crypto.js
 
-Designing  intuitive and user-friendly interfaces for stakeholders to interact with the eVault system.
+### Storage:
+- IPFS (InterPlanetary File System)
+- MongoDB
 
-Incorporating the  features such as document upload, retrieval, tracking changes, and sharing information.
+### Blockchain:
+- Ethereum
 
+## Basic Workflow
 
-Development:
+1. Requirement Analysis
+2. Research and Planning
+3. System Design
+4. User Interface Design
+5. Development
+6. Testing
+7. Integration
+8. Documentation
 
-Developing  the eVault system according to the designed architecture and user interface specifications.
-
-Implementing the  smart contracts for access control, permissions management, and transaction handling.
-
-Ensuring  robust security measures, including encryption, authentication, and secure communication protocols.
-
-
-Integration:
-
-Integrating  the eVault system with existing legal databases and case management systems for seamless interoperability.
-
-Testing  the integration thoroughly to ensure data consistency and compatibility.
-
-
-Testing and Quality Assurance:
-
-Conducting comprehensive testing of the eVault system to identify and rectifying  any bugs or issues.
-
-Perform security testing to detect vulnerabilities and ensure data integrity and confidentiality.
-
-
-Documentation and Presentation:
-
-Preparing a  detailed documentation, including system architecture, technical specifications, and user guides.
-
-
-3. Tech Stack :
-
-Front-End : ReactJS, NextJS , Tailwind CSS 
-
-Back-End :  NodeJS ,ExpressJS , JWT , Web3.js , Crypto.js
-
-Storage : IPFS(InterPlanetary File System) , MongoDB
-
-Blockchain : Ethereum 
-
-
-4. Basic Workflow :
-
-Requirement Analysis:
-
-
-Understanding the requirements outlined in the problem statement.
-
-Identify key stakeholders and their needs.
-
-Defining the scope, objectives, and deliverables of the project.
-
-
-Research and Planning:
-
-Research blockchain platforms (Ethereum ) and legal record management systems.
-
-Planing  the project timeline, resources, and milestones.
-
-Defining roles and responsibilities within the team.
-
-
-System Design:
-
-
-Desiging  the architecture of the eVault system, including frontend, backend, and blockchain components.
-
-Defining  data structures for storing legal records on the blockchain.
-
-Designing  smart contracts for access control, permissions management, and transactions.
-
-
-User Interface Design:
-
-Design intuitive user interfaces for lawyers, judges, clients, and other stakeholders.
-
-Include features such as document upload, retrieval, tracking changes, and sharing information.
-
-Ensure the interface is user-friendly and accessible across different devices.
-
-Development:
-
-Implemented  the frontend using technologies like React.js or Next.js.
-
-Developed  the backend using appropriate frameworks and languages (e.g., Node.js, Python).
-
-Implemented smart contracts using Solidity  blockchain development languages.
-
-Integrating  frontend, backend, and blockchain components.
-
-
-
-Testing:
-
-Conducting  unit testing, integration testing, and end-to-end testing of the eVault system.
-
-Test for functionality, usability, security, and performance.
-
-Identify and fix any bugs or issues.
-
-
-Integration:
-
-
-Integrating the eVault system with existing legal databases and case management systems.
-
-Ensure seamless interoperability and data consistency.
-
-
-
-Documentation:
-
-Document the system architecture, technical specifications, and user guides.
-
-Prepare detailed documentation for codebase, APIs, and smart contracts.
-
-Create user manuals and guides for stakeholder
-
+By following this workflow, the team can effectively develop and deliver a blockchain-based eVault system for legal records that meets the objectives and requirements of the hackathon.
