@@ -63,3 +63,44 @@ Back-End :  NodeJS ,ExpressJS , JWT , Web3.js , Crypto.js
 Storage : IPFS(InterPlanetary File System) , MongoDB
 Blockchain : Hyperledger Fabric
 
+4. Basic Workflow :
+Requirement Analysis:
+
+Understand the requirements outlined in the problem statement.
+Identify key stakeholders and their needs.
+Define the scope, objectives, and deliverables of the project.
+Research and Planning:
+
+Research blockchain platforms (Ethereum, Hyperledger, Corda) and legal record management systems.
+Plan the project timeline, resources, and milestones.
+Define roles and responsibilities within the team.
+System Design:
+
+Design the architecture of the eVault system, including frontend, backend, and blockchain components.
+Define data structures for storing legal records on the blockchain.
+Design smart contracts for access control, permissions management, and transactions.
+User Interface Design:
+
+Design intuitive user interfaces for lawyers, judges, clients, and other stakeholders.
+Include features such as document upload, retrieval, tracking changes, and sharing information.
+Ensure the interface is user-friendly and accessible across different devices.
+Development:
+
+Implement the frontend using technologies like React.js or Next.js.
+Develop the backend using appropriate frameworks and languages (e.g., Node.js, Python).
+Implement smart contracts using Solidity or other blockchain development languages.
+Integrate frontend, backend, and blockchain components.
+Testing:
+
+Conduct unit testing, integration testing, and end-to-end testing of the eVault system.
+Test for functionality, usability, security, and performance.
+Identify and fix any bugs or issues.
+Integration:
+
+Integrate the eVault system with existing legal databases and case management systems.
+Ensure seamless interoperability and data consistency.
+Documentation:
+
+Document the system architecture, technical specifications, and user guides.
+Prepare detailed documentation for codebase, APIs, and smart contracts.
+Create user manuals and guides for stakeholder
