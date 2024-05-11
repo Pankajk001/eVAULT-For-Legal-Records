@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Problem Statement
 
-## Getting Started
+## To Develop a Blockchain-based eVault System for Legal Records
 
-First, run the development server:
+### Requirements:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. **Blockchain Platform Integration:** Utilize blockchain platforms like Ethereum with smart contracts for access, permissions, and transactions.
+2. **User-Friendly Interfaces:** Provide intuitive interfaces for stakeholders to upload, retrieve, track changes, and share legal documents.
+3. **Privacy and Confidentiality:** Ensure privacy and confidentiality with access controls, encryption, and authentication mechanisms.
+4. **Integration with Existing Systems:** Enable seamless integration with existing legal databases and case management systems for interoperability.
+5. **Scalability and Adaptability:** Ensure the system is scalable and adaptable for future changes and upgrades.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Expected Outcomes:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. **Functional Prototype:** Deliver a functional prototype with user-friendly features for document management.
+2. **Comprehensive Design Document:** Present a detailed design document outlining the architecture, features, and technical specifications.
+3. **Business Plan:** Develop a business plan outlining the potential impact, market opportunities, and revenue models.
+4. **Presentation:** Present the prototype, design document, and business plan.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Impact:
 
-## Learn More
+The development of a blockchain-based eVault system for legal records can significantly improve access to justice in India. It can lead to faster court proceedings, reduced costs, improved data integrity, and increased trust in the justice system.
 
-To learn more about Next.js, take a look at the following resources:
+# Approach
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Understanding the Problem:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Gain a thorough understanding of the requirements outlined in the problem statement and identify key stakeholders' needs.
 
-## Deploy on Vercel
+## Research and Familiarization:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Research various blockchain platforms (Ethereum) and existing eVault systems to understand features and functionalities.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## System Design and Architecture:
+
+Design the system architecture considering security, scalability, and interoperability. Define data structures and smart contracts.
+
+## User Interface Design:
+
+Design intuitive interfaces with features like document upload, retrieval, tracking changes, and sharing information.
+
+## Development:
+
+Implement the system components according to the design, including frontend, backend, and smart contracts.
+
+## Integration:
+
+Integrate the eVault system with existing legal databases and case management systems to ensure seamless interoperability.
+
+## Testing and Quality Assurance:
+
+Conduct comprehensive testing to identify and rectify bugs or issues. Perform security testing to ensure data integrity and confidentiality.
+
+## Documentation and Presentation:
+
+Prepare detailed documentation including system architecture, technical specifications, and user guides. Present the prototype, design document, and business plan.
+
+# Tech Stack
+
+## Front-End:
+- ReactJS
+- NextJS
+- Tailwind CSS
+
+## Back-End:
+- NodeJS
+- ExpressJS
+- JWT
+- Web3.js
+- Crypto.js
+
+## Storage:
+- IPFS (InterPlanetary File System)
+- MongoDB
+
+## Blockchain:
+- Ethereum
+
+# Basic Workflow
+
+1. Requirement Analysis
+2. Research and Planning
+3. System Design
+4. User Interface Design
+5. Development
+6. Testing
+7. Integration
+8. Documentation
+
+By following this workflow, the team can effectively develop and deliver a blockchain-based eVault system for legal records that meets the objectives and requirements of the hackathon.
