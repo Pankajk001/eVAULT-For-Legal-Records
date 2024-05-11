@@ -1,4 +1,4 @@
-1. Problem Statement : 
+1.<h1>Problem Statement <h1/>: 
 To Develop a blockchain-based eVault system for legal records to ensure security, transparency, and accessibility for all stakeholders.
 
 Requirements:
@@ -56,3 +56,10 @@ Documentation and Presentation:
 
 Prepare detailed documentation, including system architecture, technical specifications, and user guides.
 Create a presentation highlighting the prototype, design documents, and business plan for the hackathon.
+
+3. Tech Stack :
+Front-End : ReactJS, NextJS , Tailwind CSS 
+Back-End :  NodeJS ,ExpressJS , JWT , Web3.js , Crypto.js
+Storage : IPFS(InterPlanetary File System) , MongoDB
+Blockchain : Hyperledger Fabric
+
