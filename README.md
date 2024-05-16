@@ -87,4 +87,4 @@ Prepare detailed documentation including system architecture, technical specific
 7. Integration
 8. Documentation
 
-By following this workflow, the team can effectively develop and deliver a blockchain-based eVault system for legal records that meets the objectives and requirements of the hackathon.
+Thanks for having look to this repository!
